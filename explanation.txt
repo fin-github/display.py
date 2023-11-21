@@ -1,0 +1,25 @@
+It makes a array of pixels. By default it will set all of them to no color.
+But if it sees that in the provided pixels arg it contains the (x,y), it will change to the color provided.
+
+Example:
+(x,y): Fore.COLOR GOES HERE
+
+Function Example:
+        
+render(
+    {
+        (x,y): Fore.COLOR GOES HERE,
+        (x,y): Fore.COLOR GOES HERE,
+        (x,y): Fore.COLOR GOES HERE
+    }
+)
+or
+render(
+    {
+        (1,3): Fore.RED,
+        (4,2): Fore.BLUE,
+        (1,1): Fore.YELLOW
+    }
+)
+
+You can actually run the second one and see what it prints!
