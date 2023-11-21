@@ -1,4 +1,4 @@
-from tools import Display
+from tool import Display
 from colorama import Fore
 
 # Example preset
