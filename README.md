@@ -11,3 +11,10 @@
 </div>
 
 ![Example](https://github.com/fin-github/display.py/blob/main/example.png)
+
+
+
+# How to install
+To install, download [this](https://raw.githubusercontent.com/fin-github/display.py/main/Plugin/tool.py).
+Then add it to **the same directory** as your project
+See examples [here](https://github.com/fin-github/display.py/tree/main/Examples)
